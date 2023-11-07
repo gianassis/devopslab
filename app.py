@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def pagina_inicial():
-    return "GIAN Desafio Custom Messageeeeeee"
+    return "GIAN Desafio Custom Message"
